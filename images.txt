@@ -6,6 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 mysql
 taskrabbit/elasticsearch-dump
-rockylinux
 ubuntu
 debian
