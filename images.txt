@@ -9,4 +9,3 @@ taskrabbit/elasticsearch-dump
 rockylinux
 ubuntu
 debian
-rockylinux
